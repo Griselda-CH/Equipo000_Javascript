@@ -1,0 +1,1 @@
+console.log("Realizar el ejercicio en grupo")
