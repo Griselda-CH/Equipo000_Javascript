@@ -1,5 +1,6 @@
 
-/*Reeedaccion del problema*/
+/*Redaccion del problema:
+Crear un app para agencia de viajes*/
 
 
 let pregunta_pais= prompt("¿ A que pais quieres viajar? ");
