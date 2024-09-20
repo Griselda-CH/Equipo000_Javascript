@@ -1,5 +1,5 @@
 
-/*Reeedaccion del problema*/
+/*Reeedaccion del problelñmñ,ñ´ñ,-.,ma*/
 
 
 let pregunta_pais= prompt("¿ A que pais quieres viajar? ");
