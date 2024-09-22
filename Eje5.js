@@ -1,5 +1,13 @@
 
-/*Reeedaccion del problelñmñ,ñ´ñ,-.,ma*/
+/*
+5.. En este ejercicio se hará el código para una agencia de viajes,
+Se le preguntará al usuario a donde quiere viajar.
+Se podrá hacer la conversión de la moneda mexicana a euros.
+Se crea una variable "ahora", y por la funcion "new date" se obtiene la fecha y mediante ello se obtiene la hora actual.
+Se calcula el cambio de horario del pais en milisegundos.
+La variable "nuevaHora" guarda la hora que se calculó y con la función "getTime"  se reinicia el tiempo después de las 12.
+Mostramos el resultado con la funcion "toLocaleString" en formato de hora. 
+*/
 
 
 let pregunta_pais= prompt("¿ A que pais quieres viajar? ");
